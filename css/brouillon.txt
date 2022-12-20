@@ -1,0 +1,433 @@
+      /* salon */
+      .salon {
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 109.58px;
+        top: 328px;
+        }
+        
+        
+        /* bouton rdv */
+        .rdv{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 109.58px;
+        top: 328px;
+        background: #FFFFFF;
+        border-radius: 15px;
+        }
+        
+        /* LE SALON */
+        .salon .txt{
+        position: absolute;
+        width: 78px;
+        height: 19px;
+        left: 181.58px;
+        top: 343px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+        }
+        
+        
+        /* SERVICES */
+        .services{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 352.58px;
+        top: 328px;
+        }
+        
+        
+        /* bouton SERVICES */
+        .rdv-services{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 352.58px;
+        top: 328px;
+        background: #FFFFFF;
+        border-radius: 15px;
+        }
+        
+        /* NOS SERVICES */
+        .nos-services{
+        position: absolute;
+        width: 117px;
+        height: 19px;
+        left: 418.58px;
+        top: 343px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+        }
+        
+        /* REVIEWS */
+        .reviews{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 838.58px;
+        top: 328px;
+        }
+        
+        
+        /* bouton REVIEWS */
+        .bouton-reviews{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 838.58px;
+        top: 328px;
+        background: #FFFFFF;
+        border-radius: 15px;
+        }
+        
+        /* REVIEWS */
+        
+        position: absolute;
+        width: 73px;
+        height: 19px;
+        left: 891.58px;
+        top: 343px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        
+        color: #000000;
+        
+        
+        
+        /* PORTFOLIO */
+        
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 595.58px;
+        top: 328px;
+        
+        
+        
+        /* bouton PORTFOLIO */
+        
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 595.58px;
+        top: 328px;
+        
+        background: #FFFFFF;
+        border-radius: 15px;
+        
+        
+        /* PORTFOLIO */
+        
+        position: absolute;
+        width: 92px;
+        height: 19px;
+        left: 671.58px;
+        top: 343px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        
+        color: #000000;
+        
+        
+        
+        /* contact */
+        
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 1081.58px;
+        top: 328px;
+        
+        
+        
+        /* bouton rdv */
+        
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 1081.58px;
+        top: 328px;
+        
+        background: #FFFFFF;
+        border-radius: 15px;
+        
+        
+        /* CONTACT */
+        
+        position: absolute;
+        width: 79px;
+        height: 19px;
+        left: 1154.58px;
+        top: 343px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        
+        color: #000000;
+        
+        
+        
+        /* header */
+        
+        position: absolute;
+        width: 1280px;
+        height: 275px;
+        left: 74.58px;
+        top: 0px;
+        
+        
+        
+        /* cadre header */
+        
+        position: absolute;
+        width: 1280px;
+        height: 275px;
+        left: 74.58px;
+        top: 0px;
+        
+        background: #FFFFFF;
+        
+        
+        /* brand */
+        
+        position: absolute;
+        width: 436px;
+        height: 154px;
+        left: 529.58px;
+        top: 83px;
+        
+        
+        
+        /* Vos cheveux, notre passion */
+        
+        position: absolute;
+        width: 436px;
+        height: 36px;
+        left: 529.58px;
+        top: 201px;
+        
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 300;
+        font-size: 32px;
+        line-height: 39px;
+        
+        background: linear-gradient(270deg, #FF5C00 50%, #F7A070 95.18%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+        
+        
+        
+        /* Haircoholix */
+        
+        position: absolute;
+        width: 393px;
+        height: 94px;
+        left: 550.58px;
+        top: 83px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 70px;
+        line-height: 85px;
+        
+        color: #FF5C00;
+        
+        
+        
+        /* social media */
+        
+        position: absolute;
+        width: 183px;
+        height: 36px;
+        left: 1096.58px;
+        top: 124.67px;
+        
+        
+        
+        /* instagramm logo (on disait) */
+        
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        left: 1145.58px;
+        top: 124.67px;
+        
+        background: #FFFFFF;
+        
+        
+        /* lk 1 */
+        
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        left: 0px;
+        top: 0px;
+        
+        
+        
+        /* Vector */
+        
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        
+        background: #000814;
+        
+        
+        /* FACEBOOK LOGO */
+        
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        left: 1096.58px;
+        top: 124.67px;
+        
+        background: #FFFFFF;
+        
+        
+        /* Vector */
+        
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0.6%;
+        
+        background: #000814;
+        
+        
+        /* twitter logo */
+        
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        left: 1194.58px;
+        top: 124.67px;
+        
+        background: #FFFFFF;
+        
+        
+        /* tw 1 */
+        
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        left: 0px;
+        top: 0px;
+        
+        
+        
+        /* Vector */
+        
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        
+        background: #000814;
+        
+        
+        /* YOUTUBE LOGO */
+        
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        left: 1243.58px;
+        top: 124.67px;
+        
+        background: #FFFFFF;
+        
+        
+        /* yt 1 */
+        
+        position: absolute;
+        width: 36px;
+        height: 36px;
+        left: 0px;
+        top: 0px;
+        
+        
+        
+        /* Vector */
+        
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        
+        background: #000814;
+        
+        
+        /* bouton rdv */
+        
+        position: absolute;
+        width: 222px;
+        height: 59.89px;
+        left: 109.58px;
+        top: 106.33px;
+        
+        
+        
+        /* bouton rdv */
+        
+        box-sizing: border-box;
+        
+        position: absolute;
+        width: 222px;
+        height: 59.89px;
+        left: 109.58px;
+        top: 106.33px;
+        
+        background: #FFFFFF;
+        border: 2px solid #FC7529;
+        border-radius: 15px;
+        
+        
+        /* Prendre rendez-vous */
+        
+        position: absolute;
+        width: 191px;
+        height: 23px;
+        left: 140.58px;
+        top: 126px;
+        
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        
+        color: #FC7529;
+        
+        

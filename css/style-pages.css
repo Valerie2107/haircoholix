@@ -1,0 +1,119 @@
+/* salon */
+      .salon {
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 109.58px;
+        top: 328px;
+        }
+
+/* LE SALON */
+        .salon .txt{
+        position: absolute;
+        width: 78px;
+        height: 19px;
+        left: 181.58px;
+        top: 343px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+        }
+        
+/* SERVICES */
+        .services{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 352.58px;
+        top: 328px;
+        }
+        
+/* NOS SERVICES */
+.nos-services{
+        position: absolute;
+        width: 117px;
+        height: 19px;
+        left: 418.58px;
+        top: 343px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+}
+        
+/* REVIEWS */
+.reviews{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 838.58px;
+        top: 328px;
+        }
+       
+/* REVIEWS */
+.reviews-style{
+        position: absolute;
+        width: 73px;
+        height: 19px;
+        left: 891.58px;
+        top: 343px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+}
+        
+/* PORTFOLIO */
+.portfolio{      
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 595.58px;
+        top: 328px;
+}
+        
+/* PORTFOLIO */
+.portfolio-style{      
+        position: absolute;
+        width: 92px;
+        height: 19px;
+        left: 671.58px;
+        top: 343px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+}
+        
+/* contact */
+.contact{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 1081.58px;
+        top: 328px;
+}
+
+/* CONTACT */
+ .contact-style{       
+        position: absolute;
+        width: 79px;
+        height: 19px;
+        left: 1154.58px;
+        top: 343px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+ }      

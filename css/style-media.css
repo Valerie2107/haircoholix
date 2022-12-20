@@ -1,0 +1,117 @@
+ /* social media */
+.media{
+ position: absolute;
+ width: 183px;
+ height: 36px;
+ left: 1096.58px;
+ top: 124.67px;
+} 
+ 
+ /* instagramm logo (on disait) */
+ .insta{
+ position: absolute;
+ width: 36px;
+ height: 36px;
+ left: 1145.58px;
+ top: 124.67px;
+ background: #FFFFFF;
+ }
+ 
+ /* lk 1 */
+ /*
+ position: absolute;
+ width: 36px;
+ height: 36px;
+ left: 0px;
+ top: 0px;
+ */
+ 
+ 
+ /* Vector */
+ /*
+ position: absolute;
+ left: 0%;
+ right: 0%;
+ top: 0%;
+ bottom: 0%;
+ background: #000814;
+ */
+ 
+ /* FACEBOOK LOGO */
+ .fb{
+ position: absolute;
+ width: 36px;
+ height: 36px;
+ left: 1096.58px;
+ top: 124.67px;
+ background: #FFFFFF;
+ }
+ 
+ /* Vector */
+ .fb-logo{
+ position: absolute;
+ left: 0%;
+ right: 0%;
+ top: 0%;
+ bottom: 0.6%;
+ background: #000814;
+ }
+ 
+ /* twitter logo */
+ .twitter-logo{
+ position: absolute;
+ width: 36px;
+ height: 36px;
+ left: 1194.58px;
+ top: 124.67px;
+ background: #FFFFFF;
+ }
+ 
+ /* tw 1 */
+ .twitter{
+ position: absolute;
+ width: 36px;
+ height: 36px;
+ left: 0px;
+ top: 0px;
+ } 
+ 
+ /* Vector */
+ /*
+ position: absolute;
+ left: 0%;
+ right: 0%;
+ top: 0%;
+ bottom: 0%;
+ background: #000814;
+*/ 
+ 
+ /* YOUTUBE LOGO */
+ .you-logo{
+ position: absolute;
+ width: 36px;
+ height: 36px;
+ left: 1243.58px;
+ top: 124.67px;
+ background: #FFFFFF;
+ }
+ 
+ /* yt 1 */
+ .you{
+ position: absolute;
+ width: 36px;
+ height: 36px;
+ left: 0px;
+ top: 0px;
+ } 
+ 
+ /* Vector */
+ /*
+ position: absolute;
+ left: 0%;
+ right: 0%;
+ top: 0%;
+ bottom: 0%;
+ 
+ background: #000814;
+ */
