@@ -1,10 +1,7 @@
 <nav>
-    <details>
-        <menu>
-            <li><a href="?vue=haircoholix">Accueil</a></li>
-            <li><a href="?vue=portfolio">Moi passé</a></li>
-            <li><a href="?vue=prices">Ma visite</a></li>
-            
-        </menu>
-    </details>
+    <menu>
+        <span><a href="?vue=haircoholix">Accueil salon</a></span>
+        <span><a href="?vue=portfolio">Portfolio</a></span>
+        <span><a href="?vue=prices">Nos services</a></span>   
+    </menu>
 </nav>

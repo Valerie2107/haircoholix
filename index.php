@@ -16,7 +16,6 @@ if(isset($_GET['vue'])){
             include "pages/prices.php";
             break;
         default:
-
         include_once "pages/haircoholix.php";
     }
 }else{

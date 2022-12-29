@@ -1,11 +1,6 @@
-<html>
-
 <header>
-
+    
     <button class="rdv">
-        Prendre rdv
+        Prendre rendez-vous
     </button>
-
 </header>
-
-</html>
